@@ -44,9 +44,7 @@
 
 <h1> <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=sm2695&style=flat-square"></h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+
 <!--
 **sm2695/sm2695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
