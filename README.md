@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p>🔭 I’m a computational biologist at Karolinska Institue, currently wrapping up ongoing projects started during PhD.</p>
+<p>🔭 I’m a computational biologist based in Stockholm, currently wrapping up ongoing projects started during my PhD.</p>
 
 ![Currently](./this-is.gif)
 <h3> 🌱 Currently learning ... </h2>
