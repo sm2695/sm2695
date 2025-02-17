@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Currently](./this-is.gif)
-<h2> 🌱 I’m currently learning ... </h2>
+<h3> 🌱 I’m currently learning ... </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
 <img src="./nextflow.svg" alt="Nextflow" width="45" height="45"/>
@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
 </p>
 
-<h2> 🚀 &nbsp;Languages/Tools being used at the moment</h2>
+<h3> 🚀 &nbsp;Languages/Tools being used at the moment</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="45" height="45"/>
