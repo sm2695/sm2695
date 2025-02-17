@@ -3,7 +3,7 @@
 
 ![Currently](./this-is.gif)
 
-<p>🔭 I’m a computational biologist based in Stockholm, currently wrapping up ongoing projects started during my PhD.</p>
+<p>🔭 I’m a computational biologist (mainly omics) based in Stockholm, currently wrapping up ongoing projects started during my PhD.</p>
 
 <h3> 🌱 Currently learning ... </h2>
 <p align="left">
