@@ -32,7 +32,7 @@
 
 
 
-<p> <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<!--<p> <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">-->
   Also looking for interesting postdoc research/labs. You can reach me at susmitamalwade8@gmail.com </p>
   
   <p>I may know a little about the developing brain and psychiatry. </p>
@@ -44,6 +44,7 @@
 
 <h1> <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=sm2695&style=flat-square"></h1>
 
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
 
 <!--
 **sm2695/sm2695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
