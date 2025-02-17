@@ -30,7 +30,9 @@
 </p>
 
 
-<p>💬 Also looking for interesting postdoc research/labs. You can reach me at susmitamalwade8@gmail.com</p>
+<p> <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+  Also looking for interesting postdoc research/labs. You can reach me at susmitamalwade8@gmail.com
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
