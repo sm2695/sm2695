@@ -1,7 +1,10 @@
 ## Hi there 👋
-<p>🔭 I’m a computational biologist based in Stockholm, currently wrapping up ongoing projects started during my PhD.</p>
+
 
 ![Currently](./this-is.gif)
+
+<p>🔭 I’m a computational biologist based in Stockholm, currently wrapping up ongoing projects started during my PhD.</p>
+
 <h3> 🌱 Currently learning ... </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
