@@ -29,6 +29,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+
+<p>💬 Also looking for interesting postdoc research/labs. You can reach me at susmitamalwade8@gmail.com</p>
+
+
 <!--
 **sm2695/sm2695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
