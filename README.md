@@ -4,7 +4,7 @@
 <h2> 🌱 I’m currently learning ... </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-<img src="https://www.nextflow.io/img/logo-nextflow.png" alt="Nextflow" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/nextflow-io/website/main/static/img/nextflow-logo.png" alt="Nextflow" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="45" height="45"/>
