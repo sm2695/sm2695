@@ -5,7 +5,7 @@
 
 <p>🔭 I’m a computational biologist (mainly omics) based in Stockholm, currently wrapping up ongoing projects started during my PhD.</p>
 
-<h3> 🌱 Currently learning ... </h2>
+<h3> 🌱 I'm learning ... </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
 <img src="./nextflow.svg" alt="Nextflow" width="45" height="45"/>
@@ -17,7 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
 </p>
 
-<h3> 🚀 &nbsp;Current tech </h2>
+<h3> 🚀 &nbsp;Tools I use </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="45" height="45"/>
