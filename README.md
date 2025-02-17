@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Current Status](https://tenor.com/en-GB/view/this-is-fine-gif-24177057)
+![Currently](./this-is.gif)
 <!--
 **sm2695/sm2695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
