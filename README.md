@@ -33,14 +33,14 @@
 
 
 <!--<p> <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">-->
-  I'm looking for interesting postdoc research/labs. You can reach me at susmitamalwade8@gmail.com. I may know something about a developing brain.  </p>
-  
+  Computational biologist (mainly single-cell omics). Looking for interesting postdoc research/labs. You can reach me at susmitamalwade8@gmail.com.   </p>
+<!--  
 </p>
 <a href="https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.03923&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=true&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false">Something cool </a>  
 
 <a href="./E0jLNSbXMAEQQXG.jpeg">single-cell meme</a>
 </p>
-
+-->
 <h1> <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=sm2695&style=flat-square"></h1>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
